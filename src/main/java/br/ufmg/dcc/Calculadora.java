@@ -9,5 +9,7 @@ public class Calculadora {
   public int subtrai(int x, int y) {
     return x - y;
   }
-
+  public int divi(int x, int y){
+    return x / y;
+  }
 }
